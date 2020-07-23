@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a1efcdb-c4df-4041-bda3-0eec2438606e" name="Default Changelist" comment="Committing GreenVsRed game with included java docs and some tests." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Viktor Kurtev" />
+        <option value="v.d.kurtev@gmail.com" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1euMJNZXAgeWUD1jYLSb7BeG4fh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/gvr" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="JUnit.GreenVsRedTest.executeNextGenerationRules_ShouldReturnRedWhenNeighboursAreFour">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="gvr" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreenVsRedTest.executeNextGenerationRules_ShouldReturnRedWhenNeighboursAreFour" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gvr" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GreenVsRedTest" />
+      <option name="METHOD_NAME" value="executeNextGenerationRules_ShouldReturnRedWhenNeighboursAreFour" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreenVsRedTest.executeNextGenerationRules_ShouldReturnSameTypeWhenNeighboursAreTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gvr" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GreenVsRedTest" />
+      <option name="METHOD_NAME" value="executeNextGenerationRules_ShouldReturnSameTypeWhenNeighboursAreTwo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreenVsRedTest.initGenerationZero_ShouldThrowInvalidUserInputException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gvr" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GreenVsRedTest" />
+      <option name="METHOD_NAME" value="initGenerationZero_ShouldThrowInvalidUserInputException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserInputServiceTest.getUserInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gvr" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserInputServiceTest" />
+      <option name="METHOD_NAME" value="getUserInput" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.UserInputServiceTest.getUserInput" />
+      <item itemvalue="JUnit.GreenVsRedTest.executeNextGenerationRules_ShouldReturnSameTypeWhenNeighboursAreTwo" />
+      <item itemvalue="JUnit.GreenVsRedTest.initGenerationZero_ShouldThrowInvalidUserInputException" />
+      <item itemvalue="JUnit.GreenVsRedTest.executeNextGenerationRules_ShouldReturnRedWhenNeighboursAreFour" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GreenVsRedTest.executeNextGenerationRules_ShouldReturnRedWhenNeighboursAreFour" />
+        <item itemvalue="JUnit.GreenVsRedTest.initGenerationZero_ShouldThrowInvalidUserInputException" />
+        <item itemvalue="JUnit.GreenVsRedTest.executeNextGenerationRules_ShouldReturnSameTypeWhenNeighboursAreTwo" />
+        <item itemvalue="JUnit.UserInputServiceTest.getUserInput" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\sunse\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a1efcdb-c4df-4041-bda3-0eec2438606e" name="Default Changelist" comment="" />
+      <created>1595166951159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595166951159</updated>
+      <workItem from="1595166954674" duration="17942000" />
+      <workItem from="1595246941292" duration="13000" />
+      <workItem from="1595247839449" duration="202000" />
+      <workItem from="1595252585508" duration="16121000" />
+      <workItem from="1595322817295" duration="20150000" />
+      <workItem from="1595345307668" duration="28000" />
+      <workItem from="1595347203928" duration="5846000" />
+      <workItem from="1595366041788" duration="6000" />
+      <workItem from="1595399063118" duration="15273000" />
+      <workItem from="1595422841143" duration="5928000" />
+      <workItem from="1595440381333" duration="9833000" />
+      <workItem from="1595451120904" duration="2496000" />
+      <workItem from="1595487452835" duration="6612000" />
+      <workItem from="1595504376424" duration="361000" />
+      <workItem from="1595504918162" duration="8292000" />
+      <workItem from="1595513951614" duration="403000" />
+      <workItem from="1595514716083" duration="312000" />
+    </task>
+    <task id="LOCAL-00001" summary="Committing GreenVsRed game with included java docs and some tests.">
+      <created>1595513460597</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595513460597</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Committing GreenVsRed game with included java docs and some tests." />
+    <option name="LAST_COMMIT_MESSAGE" value="Committing GreenVsRed game with included java docs and some tests." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="456" y="98" key="#Project_Structure" timestamp="1595510244577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="456" y="98" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1595510244577" />
+    <state x="177" y="200" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595506947864">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="177" y="200" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595506947864" />
+    <state x="698" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595336347145">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="698" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1595336347145" />
+    <state x="1046" y="222" width="390" height="654" key="#com.intellij.ide.util.MemberChooser" timestamp="1595406576779">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1046" y="222" width="390" height="654" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1595406576779" />
+    <state x="515" y="57" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1595406550093">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="515" y="57" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595406550093" />
+    <state x="965" y="213" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1595414732588">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="965" y="213" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595414732588" />
+    <state x="711" y="344" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1595489237576">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="711" y="344" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595489237576" />
+    <state x="557" y="105" key="CommitChangelistDialog2" timestamp="1595514294478">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="557" y="105" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1595514294478" />
+    <state width="564" height="466" key="DebuggerActiveHint" timestamp="1595341834544">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="564" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1595341834544" />
+    <state x="754" y="459" key="DetectedRootsChooserDialog" timestamp="1595506491059">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="754" y="459" key="DetectedRootsChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595506491059" />
+    <state x="869" y="323" key="FileChooserDialogImpl" timestamp="1595514352429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="869" y="323" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595514352429" />
+    <state x="828" y="417" key="Github.ShareDialog" timestamp="1595514012629">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="417" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595514012629" />
+    <state width="1875" height="305" key="GridCell.Tab.0.bottom" timestamp="1595513598448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595513598448" />
+    <state width="1875" height="305" key="GridCell.Tab.0.center" timestamp="1595513598448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="305" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595513598448" />
+    <state width="1875" height="305" key="GridCell.Tab.0.left" timestamp="1595513598448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="305" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595513598448" />
+    <state width="1875" height="305" key="GridCell.Tab.0.right" timestamp="1595513598448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="305" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595513598448" />
+    <state width="1875" height="305" key="GridCell.Tab.1.bottom" timestamp="1595513598448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="305" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595513598448" />
+    <state width="1875" height="305" key="GridCell.Tab.1.center" timestamp="1595513598448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="305" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595513598448" />
+    <state width="1875" height="305" key="GridCell.Tab.1.left" timestamp="1595513598448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="305" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595513598448" />
+    <state width="1875" height="305" key="GridCell.Tab.1.right" timestamp="1595513598448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="305" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595513598448" />
+    <state x="540" y="254" width="1221" height="647" key="IDE.errors.dialog" timestamp="1595508577019">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="254" width="1221" height="647" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595508577019" />
+    <state x="727" y="221" key="RollbackChangesDialog" timestamp="1595509576115">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="727" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595509576115" />
+    <state x="464" y="150" key="SettingsEditor" timestamp="1595514209123">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="464" y="150" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595514209123" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1595514106983">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1595514106983" />
+    <state x="645" y="410" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1595512570348">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="645" y="410" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1595512570348" />
+    <state x="731" y="331" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1595451944548">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="331" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595451944548" />
+    <state x="668" y="268" key="extract.method.dialog" timestamp="1595177642584">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="268" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595177642584" />
+    <state x="736" y="362" key="git4idea.ui.GitTagDialog" timestamp="1595505106969">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="736" y="362" key="git4idea.ui.GitTagDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595505106969" />
+    <state x="312" y="129" key="new project wizard" timestamp="1595489899497">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="312" y="129" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1595489899497" />
+    <state x="659" y="275" key="refactoring.ChangeSignatureDialog" timestamp="1595184955045">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="659" y="275" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595184955045" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1595501467636">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595501467636" />
+    <state x="790" y="310" key="svn.repositoryBrowser" timestamp="1595514029195">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="790" y="310" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1595514029195" />
+  </component>
+</project>
